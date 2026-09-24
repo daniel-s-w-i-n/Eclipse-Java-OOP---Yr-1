@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"reversi","c":"IView","l":"feedbackToUser(int, String)","u":"feedbackToUser(int,java.lang.String)"},{"p":"reversi","c":"IView","l":"initialise(IModel, IController)","u":"initialise(reversi.IModel,reversi.IController)"},{"p":"reversi","c":"IView","l":"refreshView()"}];updateSearchResults();
